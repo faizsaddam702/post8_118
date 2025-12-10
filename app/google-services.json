@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1011624788066",
+    "firebase_url": "https://post8-118db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "post8-118db",
+    "storage_bucket": "post8-118db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011624788066:android:517bde40176b41b2d5113b",
+        "android_client_info": {
+          "package_name": "com.example.post8_118"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx8pEsYnnk4jlSXuYt7LgDilQMVhUb6J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
